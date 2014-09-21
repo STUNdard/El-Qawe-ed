@@ -1,0 +1,138 @@
+#Fourma standar mteɛ lawraq
+
+Nawɛ:	eqtiraħ  
+Ktebha:	Aħmed Saɛoudi <@ahmedsaoudi>  
+Date:	Seb 2 out 2014 22:00:00 WT  
+
+##Talkhis
+
+Lawraq houma el fourma elli bech nektbou bihom el qawaɛed mteɛ et Tounsi. El warqa hedhi, noumrou W000, bech tħot el qaweɛed elli bech nektbou bihom lawraq lokhrin lkol. 
+
+Bekhlef lawraq lokhrin, el warqa hedhi maɛand'ha ken version waħda bark w mannajmouch nbadlou fiha wala nzidou ɛliha kima lawraq lokhrin.
+
+##Ɛlech el fourma hedhi?
+
+El but mteɛ el fourma hedhi houa bech taɛti en nes lkol ech chans bech tɛawen fel ktiba mteɛ el qaweɛd mteɛ ellougha et tounsya, ama zeda bech nsahlou el tfarkis mteɛ el qaweɛed wel tabdil mteɛhom.
+
+##Taɛrif lawraq
+
+El warqa hya majmouɛa mteɛ qaweɛed t'hem el lougha men qrib wala men bɛid, fen notq, lektiba wala ħata fel fourma. Bech n'sahlou el tfarkis mteɛ el maɛloumet wel mizajour mteɛ el qaweɛed ħasb lestaɛmel mteɛhom, kol warqa **yelzemha** taħki ɛle ħaja waħda akahaw, mithel, el ħourouf, et tanqit, ...
+
+##Anweɛ lawraq
+
+Kol warqa tabda _eqtiraħ_, tetħat len nes el kol bech kol weħed yaɛti rayou fiha w fel qaweɛed elli fi wost'ha. Baɛd me ywefqou ennes lkol ɛle el version lekhra, twalli warqa _ofisiel_ w yetaɛtalha noumrou, elli houa generalemon noumrou el warqa elli qbalha + 1, w version.
+
+Saɛat, el warqa bkolha twalli maɛadech taslaħ ɛle khater el qaweɛed elli fi wost'ha tbadlou barcha fi waqt qsir. Fel ka hedhi el warqa bid'ha twalli _fezda_ w warqa okhra, fiha el qaweɛed ej jdod, tekhedh blaset'ha.
+
+##El mizajour
+
+Bit tbiɛa, ouwwel version bech tekhedh'ha el warqa bech tkoun 1.0.0, w kol me ysir fiha tabdil, enbadlou el version mteɛha ħasb el qaweɛed hedhi:
+
+- Tabdil sghir, kima tasliħ ghalta fel ktiba, wala fel fourma mteɛ el warqa, nzidou weħed len noumrou lekhkher (`_._.[_]`);
+
+- Tabdil qaɛda sghira wala detay maɛandouch ta'thir kbir ɛal warqa lkol, nzidou weħed len noumrou el wostani (`_.[_]._`);
+
+- Tabdil qaɛda kbira fel warqa ama men ghir ta'thir kbir ɛal warqa bkolha, waqt'ha nzidou weħed len noumrou louwwel (`[_]._._`).
+
+Kima lawraq, kol version tabda _eqtiraħ_ w tnajjem, idha tɛaddet twalli _ofisiel_ w ken lzem zeda _fezda_. El farq el waħid houa elli fel versionnet manektbouhomech ɛal warqa en nawɛ mteɛhom.
+
+##El fourma mteɛ lawraq
+
+Kima mawjoud fel warqa hedhi, kol warqa lezem fiha men fouq:
+
+- Esmha: Esm el warqa w lezmou ykoun wadhaħ w fih es suje mteɛha;
+
+- Nawɛha: eqtiraħ, ofisiel wala fezda;
+
+- Esm elli kteb/ketbou el eqtiraħ louwwel wel kontakt/kontaktouwet mteɛou/mteɛhom
+
+- Date: ed date mteɛ ekher tabdikl. 
+
+El awraq el ofisiel yetzedoulhom zouz ħajet okhrin: 
+
+- Noumrou: noumrou ekher warqa ofisiel + 1;
+
+- Version: el version mteɛ el warqa. 
+
+Idha ken el warqa elli bech nzidouha, jet fi blaset warqa okhra qdima, nzidou:
+
+- Fiɛoudh: lel WARQA EJ JDIDA w nħottou fihou noumrou el warqa el qdima;
+
+- Chouf: lel WARQA EL QDIMA bech elli yaqra yaɛraf wine yemchi bech ychouf el qaweɛed ejdod.
+
+Exompel mteɛ warqa ofisiel:
+
+```
+Esm el warqa
+============
+
+Nawɛ	: ofisiel			
+Ktebha	: Flen Fouleni <flen@fouleni.tn>
+Date	: Erb 1 jan 2014 00:00:00 WT
+Noumrou	: 1
+Version	: 1.0.0
+
+```
+
+Exompel mteɛ warqa jdida:
+
+```
+Esm el warqa ej jdida
+=====================
+
+Nawɛ	: ofisiel
+Ktebha	: Foulen Fouleni <flen@fouleni.tn>
+Date	: Khm 2 jan 2014 00:00:00 WT
+Noumrou	: 2
+Version	: 1.0.0
+Fiɛoudh	: 1
+
+```
+
+Exompel warqa fezda
+
+```
+Esm el warqa el qdima
+=====================
+
+Nawɛ	: fezda
+Ktebha	: Foulen Foulen <flen@fouleni.tn>
+Date	: Erb 1 jan 2014 00:00:00 WT
+Noumrou	: 1
+Version	: 1.0.0
+Chouf	: 2
+
+```
+
+Kol warqa tabda b talkhis, fih chnawa taħki lwarqa, w paragrafet yeħki kol weħed menhom ɛle parti mel mawdhouɛ lkol. Kol paragraf lezemou ykoun ɛandou suje mteɛou elli mayechbehech fih lel paragrafet lokhrin. Hakka, ennajmou b s'houla naħkiew ɛle kol paragraf waħdou.  
+Mithel: El paragraf 3. mel warqa 342. yaħki ɛle ...
+
+##Ki bech nzid warqa jdida ... 
+
+- Mayelzemech zouz awraq ɛand'hom fard suje, w idha ken lwarqa elli bech tetzed fiha qaweɛd mafammech menhom fel warqa el qdima, nzidouhom ghadi, nbadlou fel version men ghir manaɛmlou warqa jdida;
+
+- Mayelzemech zouz awraq fihom qaweɛed konter bɛadh'hom. 
+
+	- Idha ken el qaweɛed ej jdod sħaħ w mahomch barcha, nbadlou el warqa el qdima w manzidouch warqa jdida;
+
+	- Idha ken el qaweɛed ej jdod sħaħ w barcha (akther mech chtar mteɛ el warqa leqdima), el warqa leqdima twalli _fezda_ wel warqa ej jdida tetzed fi blaset'ha.
+
+- Mayelzemech warqa waħda fiha akther men mawdhouɛ weħed. Idha ken ɛandek chak fi warqa, eqsem'ha ɛle barcha awraq, idha kol warqa fihom tnajjem tetefhem waħad'ha, khalliha. Ama idha ken twalli maɛadech mafhouma, rajjaɛha mɛa el warqa laslanyya.
+
+**El but houa elli en najmou nbadlou kol warqa waħad'ha men ghir me nmessou lawraq lokhrin, ama zeda ennajmou naqraw kol warqa men ghir me noqeɛdou naqraw fel awraq lokhrin.**
+
+##Waqtech tefsed warqa?
+
+El warqa tefsed waqt elli, bech tetsallaħ, lezemha tɛawed tetekteb mel louwwel w jdid. Yaɛni generalemon, waqt el qaweɛed elli maɛadech sħaħ yfoutou ech chtar.  Fel ka hedhi, warqa jdida lezemha tekhedh blaset'ha.
+
+##Esm el fichie
+
+Besh nsahlou et tretmon informatik mteɛ lawraq, lezem esm el fichier elli houma fi westou yabda fil fourma hedhi:
+
+- Eqtiraħ
+
+	- Eqtiraħ warqa vierj (mafamech menha qbal): `EesmElWarqa`. Mithel: `Eennwemer.txt`;
+
+	- Eqtiraħ warqa wala version fezdin: `EnoumrouElWarqaLeqdima`. Mithel: `EW001V202.txt`;
+
+- Warqa ofisiel wala fezda: `W[NourouElWarqaElliQbalha+1]V[ElVersion]`. Exompel: `W000V100.txt`;
