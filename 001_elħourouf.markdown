@@ -6,7 +6,7 @@ Date: 	Jem 1 out 2014 12:00:00 WT
 
 ---
 
-##Talkhis
+## Talkhis
 
 Kima taqrib kol lougha, et Tounsi yetekteb b ħourouf malmoumin mɛa bɛadh'hom fil **alfabe**. Lalfabe et Tounsi mrakkeb men 31 ħarf. 
 
@@ -18,7 +18,7 @@ Et Tounsi yetkteb b alfabe fiha 31 ħarf maqsoumin ɛle zouz anweɛ, el ħourouf
 
 - el ħourouf el mrakba hya elli fiha zouz _sambolet_, eth theni fihom "h" kima el "ch", el "dh" wel "kh". El ħarf el mrakkeb el waħid elli mafihouch "h" houa el "ou".
 
-##En notq mteɛ el ħourouf
+## En notq mteɛ el ħourouf
 
 Barcha ħourouf ɛand'hom akther men notq. En notq mteɛ ħarf ynajjem yetbaddel men kelma l kelma, wala men lahja l lahja fi nafs el kelma. Bech ennajmou nfarqou bin lektiba mteɛ ħarf wen notq mteɛou, bech nħottou en notq bin "[]". Bech nestaɛmlou zeda es samboulet ":" (zouz nqot fouq bɛadh'hom) w "¨" (zouz nqot baħdha bɛadh'hom) bech nfarqou bin anweɛ ennotq mteɛ nafs el ħarf. 
 
@@ -39,7 +39,7 @@ Es samboulet hadhouma yetbaddel el maɛna mteɛhom ħasb el ħarf elli mɛahom:
 --------|-------|---------------|-----------
 A	| a	| **a**riana	| a qsira
 A	| a:	| b**a**b	| a twila
-A	| ä	| q**a**lb	| a khchia qsira
+A	| ä	| q**a**lb	| a khchina qsira
 A	| ä:	| d**a**r	| a khchina twila
 B	| b	| **b**ordgen	|
 CH	| ch	| **ch**ams	|
@@ -83,7 +83,7 @@ Z	| z:	| **z**azzar	| z khchina
 
 ---
 
-##Rod belek (R.B.)
+## Rod belek (R.B.)
 
 - Barcha kelmet yetbaddel en notq mteɛhom ħasb ellahjet. 
 
