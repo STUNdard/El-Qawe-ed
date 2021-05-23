@@ -1,4 +1,4 @@
-#Ta'nith
+# Ta'nith
 
 Nawɛ :	Eqtiraħ
 Ktebha:	Aħmed Saɛoudi <@ahmedsaoudi>  
@@ -6,9 +6,9 @@ Date:	Seb 2 out 2014 17:00:00 WT
 
 ---
 
-##Talkhis
+## Talkhis
 
-##Ta'nith lasemi wel adjektivet
+## Ta'nith lasemi wel adjektivet
 
 - Bech nroddou esm wala adjektif mou'anneth, nzidouh el "a" fel e5er. Mithel : blid -> blida; kbir -> kbira; 
 
